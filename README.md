@@ -1,2 +1,3 @@
-# Prepcourse-Henrry
-Modulo 2 de henrry, prueba de repositorio
+Este proyecto es una prueba de como crear un repositorio y configurarlo desde git bash.
+
+
